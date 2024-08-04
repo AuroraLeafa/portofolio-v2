@@ -69,7 +69,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Quality Assurance (Game Tester) - Freelance",
-      logoUrl: "/confiction.jpeg",
+      logoUrl: "/confiction.png",
       start: "Nov 2023",
       end: "Mar 2024",
       description:
